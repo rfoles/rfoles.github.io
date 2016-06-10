@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans);
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000;
+	line-height: 1;
+}
+
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+	line-height: 2em;
+}
+
+footer {
+	background-color: [#FF957E];
+    border: 1px black solid;
+    padding: 20px;
+	text-align: center;
+	padding: 1em 0 2em 0;
+}
+
+h1, h2 {
+	font-family: 'Merriweather', serif;
+}
+
+h1 {
+	font-size: 4em;
+}
+
+h2 {
+	font-size: 2.5em
+}
+
+h3 {
+	text-align: center;
+	font-size: 3em;
+	margin: 0.5em;
+}
+
+h4 {
+	font-size: 2em;
+	line-height: 1.5em;
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+p {
+	font-size: 1em;
+	line-height: 1em;
+}
+
+#menu {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;	
+}
+
+#panini {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;	
+}
+
+#juice{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;	
+}
+
+#coffee {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;	
+}
+
+#giving{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
