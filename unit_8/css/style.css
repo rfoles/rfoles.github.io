@@ -98,7 +98,7 @@ nav a:hover {
 }
 
 #menu {
-	padding: 1% 5% 3% 5%;
+	padding: 1% 0 3% 0;
 	margin: 0 auto;
 }
 
@@ -196,6 +196,10 @@ nav a:hover {
 }
 
 @media only screen and (max-width: 828px) {
+	body {
+		font-size: 12px;
+	}
+
 	img {
 		width: 300px;
 	}
